@@ -261,6 +261,10 @@ h2 {
   padding: 5px;
 }
 
+.not-functional {
+  color: red;
+}
+
 .logo-fixed.hide,
 .slider.hide {
   opacity: 0;
